@@ -35,3 +35,67 @@ Object Oriented Programming is a programming paradigm that provides a means of s
         obj.sum(10, 20);
      }
     } 
+<h1>What is constructor?</h1>
+<ul>
+  <li>Constructor is a special type of method that is used to initialize objects.</li>
+  <li>It not return any value.</li>
+</ul>
+
+    public class constructorlearn {
+    constructorlearn(){ //! constructor
+        System.out.println("I am constructor");
+    };
+    public static void main(String[] args) {
+        constructorlearn obj = new constructorlearn();
+        System.out.println("I am main");
+     }
+    }
+
+<h1>What is this?</h1>
+<u>
+  <li>The this keyword refers to the current object.</li>
+  <li>It also call constructor</li>
+  <li>It is used to access the members of the current class.</li>
+</u>
+
+    public class thisKeyWord {
+    int a;
+    int b;
+    void sum(int a, int b){
+        this.a = a;
+        this.b = b;
+        int sum = a + b;
+        System.out.println("this a = "+a+" this b = "+b+" sum = "+sum);
+        
+    }
+    public static void main(String[] args) {
+        thisKeyWord obj = new thisKeyWord();
+        obj.sum(10, 20);
+     }
+    }
+
+    //! Note :
+    // This can call other constructor through this keyword , so we have to use this().
+    public class thisPracticSet {
+    int eid;
+    String ename;
+    double salary;
+        thisPracticSet(){ //! default constructor
+        this("Rahul",2500.00);
+        eid=100;
+        System.out.println(eid);
+    }
+        thisPracticSet(int id){ //! parameterized constructor
+        this();
+        eid=id;
+     }
+        thisPracticSet(String ename,double sal){ //! parameterized constructor
+        this.ename=ename;
+        salary=sal;
+        System.out.println(ename+" "+salary);
+     }
+    public static void main(String[] args) {
+        //!new thisPracticSet();
+        new thisPracticSet(100);
+     }
+    }
