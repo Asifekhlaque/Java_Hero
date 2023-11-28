@@ -1,5 +1,5 @@
 # Java_Hero
-<h1>Basic OOPs in Java</h1>
+<h1>Basic OOPs</h1>
 Its is concept of Object Oriented Programming in Java Language which is used to create classes and objects.
 <h2>What is Object Oriented Programming in Java?</h2>
 <u>
@@ -18,7 +18,7 @@ Its is concept of Object Oriented Programming in Java Language which is used to 
 </u>
 <h2>Disadvantages of Object Oriented Programming in Java?</h2>
 Complexity
-<h2>Example of Object Oriented Programming in Java?</h2>
+<h2>Example of Language which supports Object Oriented Programming </h2>
 C++,Java,Python,C#,JavaScript,PHP,Ruby,Swift,Kotlin,Go,Dart,Rust
 <h2>Conclusion</h2>
 Object Oriented Programming is a programming paradigm that provides a means of structuring programs so that they are easier to understand, maintain, and debug.
