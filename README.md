@@ -144,4 +144,13 @@ Inheritance is a mechanism in which one class acquires the properties of another
     }
     }
 
-    
+<h2>what is dynamic method dispatch?</h2>  
+Dynamic method dispatch is a feature of Java that allows you to call a method based on the type of the object on which it is invoked.
+<h2>why it is used?</h2>
+It is used to call a method based on the type of the object on which it is invoked.
+<h2>Advantages of dynamic method dispatch:</h2>
+<ul>
+  <li>It allows for polymorphism, where a subclass object can be treated as an instance of its superclass.</li>
+  <li>It enables code reusability and flexibility, as different subclasses can have their own implementations of the same method.</li>
+  <li>It promotes code organization and maintainability, as related methods can be grouped together in a superclass and overridden in subclasses.</li>
+</ul>
