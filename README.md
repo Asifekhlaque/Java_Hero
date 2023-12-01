@@ -154,3 +154,41 @@ It is used to call a method based on the type of the object on which it is invok
   <li>It enables code reusability and flexibility, as different subclasses can have their own implementations of the same method.</li>
   <li>It promotes code organization and maintainability, as related methods can be grouped together in a superclass and overridden in subclasses.</li>
 </ul>
+
+    class phone{
+    void call(){
+        System.out.println("Phone is calling");
+    }
+    void photo(){
+        System.out.println("Phone is taking photo");
+    }
+    }
+
+    class SmartPhone extends phone{
+    @Override
+    void call(){
+        System.out.println("SmartPhone is calling");
+    }
+    void sms(){
+        System.out.println("SmartPhone is sending sms");
+    }
+    void play(){
+        System.out.println("SmartPhone is playing");
+    }
+    void Internet(){
+        System.out.println("SmartPhone is Internet");
+    }
+    }
+
+    public class DynamicMethodDispatch {
+    public static void main(String[] args) {
+        phone obj = new SmartPhone();
+        obj.call(); //todo SmartPhone is calling
+        obj.photo();
+        //! obj.play(); Not allowed
+        //! obj.sms(); Not allowed
+        //! obj.Internet(); Not allowed`
+    }
+    }
+
+  
