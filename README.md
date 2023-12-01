@@ -7,7 +7,7 @@ Its is concept of Object Oriented Programming in Java Language which is used to 
   <li>It's also helps in achieving data hiding and data encapsulation.</li>
 </u>
 <h2>Advantages of Object Oriented Programming in Java?</h2>
-<u>
+<ul>
   <li>Easy to understand</li>
    <li>Easy to maintain</li>
    <li>Easy to debug</li>
@@ -15,7 +15,7 @@ Its is concept of Object Oriented Programming in Java Language which is used to 
   <li>Encapsulation</li>
   <li>Data hiding</li>
   <li>Flexibility</li>
-</u>
+</ul>
 <h2>Disadvantages of Object Oriented Programming in Java?</h2>
 Complexity
 <h2>Example of Language which supports Object Oriented Programming </h2>
