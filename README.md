@@ -1,4 +1,4 @@
-<h1 style="color:red">Java_Hero</h1>
+# Java_Hero
 <h1>Basic OOPs</h1>
 Its is concept of Object Oriented Programming in Java Language which is used to create classes and objects.
 <h2>What is Object Oriented Programming in Java?</h2>
@@ -99,3 +99,22 @@ Object Oriented Programming is a programming paradigm that provides a means of s
         new thisPracticSet(100);
      }
     }
+
+# What is inheritance?
+Inheritance is a mechanism in which one class acquires the properties of another class.
+<h2>Types of Inheritance in java</h2>
+<ul>
+  <li>Single Inheritance: A class inherits from another class.</li>
+  <li>Multilevel Inheritance: A class inherits from another class, which in turn inherits from another class.</li>
+  <li></li>
+</ul>
+
+<h2>Use of Inheritance</h2>
+<ul>
+  <li>Code Reusability</li>
+  <li>Code Redundancy</li>
+  <li>Extensibility</li>
+  <li> Maintainability</li>
+  <li>Flexibility</li>
+</ul>
+Java not support multiple inheritance because of ambiguity or Diamand problem .
