@@ -118,3 +118,19 @@ Inheritance is a mechanism in which one class acquires the properties of another
   <li>Flexibility</li>
 </ul>
 Java not support multiple inheritance because of ambiguity or Diamand problem .
+
+Inheritance is a mechanism in which one class acquires the properties of another class.
+'''class A{
+    int a=10;
+    A(){
+        System.out.println("I am A "+a);
+        System.out.println("I am constructor of A");
+    }
+    void display(){
+        System.out.println("I am display of A and it is inherited from A");
+    }
+    void sum(int a, int b){
+        int sum = a + b;
+        System.out.println(sum);
+    }
+}'''
