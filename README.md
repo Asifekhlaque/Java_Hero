@@ -251,6 +251,9 @@ Two type of Polymorphism are:
   <tr>
     <td>public</td> 
     <td>Y</td>
+    <td>Y</td>
+    <td>Y</td>
+    <td>Y</td>
   </tr>
   <tr>
     <td>protected</td>
