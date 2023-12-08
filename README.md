@@ -249,9 +249,15 @@ Two type of Polymorphism are:
     <th>World</th>
   </tr>
   <tr>
-    <td>public</td>
+    <td>public</td> 
+  </tr>
+  <tr>
     <td>protected</td>
+  </tr>
+  <tr>
     <td>Default(No)</td>
+  </tr>
+  <tr>
     <td>private</td>
   </tr>
   <tr>
