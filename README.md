@@ -250,6 +250,7 @@ Two type of Polymorphism are:
   </tr>
   <tr>
     <td>public</td> 
+    <td>Y</td>
   </tr>
   <tr>
     <td>protected</td>
