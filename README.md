@@ -278,3 +278,20 @@ Two type of Polymorphism are:
     <td>N</td>
   </tr>
 </table>
+
+    public class accesModifer {
+      public void display(){
+        System.out.println("I am public");
+     }
+    }
+    private class mat{
+      private void display(){
+        System.out.println("I am private");
+     }
+    }
+    protected class eng{
+      protected void display(){
+        System.out.println("I am protected");
+     }
+    }
+
