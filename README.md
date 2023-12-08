@@ -212,7 +212,7 @@ Two type of Polymorphism are:
 </ul>
 
     public class overloading_overriding {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         G a = new G();
         a.Method(); //! Overloading
         a.Method(10); //! Overloading
