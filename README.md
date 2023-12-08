@@ -295,3 +295,20 @@ Two type of Polymorphism are:
      }
     }
 
+# What is Interface? 
+<ul>
+  <li>Interface is a blueprint of a class.</li>
+  <li>Interface is used to achieve abstraction.</li>
+  <li>Interface is used to achieve reusability.</li>
+  <li>Interface is used to achieve polymorphism.</li>
+  <li>Interface is used to achieve security.</li>
+  <li>We can not create an object of an interface. But we can create a reference of an interface.</li>
+  <li>And the properties of an interface are Public by default.</li>
+</ul>
+
+# Advantages of Interface?
+<ul>
+  <li>Better way of defining methods.</li>
+  <li>It supports multiple inheritance.</li>
+  <li>It is used to achieve data hiding.</li>
+</ul>
