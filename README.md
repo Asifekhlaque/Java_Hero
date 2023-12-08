@@ -106,7 +106,6 @@ Inheritance is a mechanism in which one class acquires the properties of another
 <ul>
   <li>Single Inheritance: A class inherits from another class.</li>
   <li>Multilevel Inheritance: A class inherits from another class, which in turn inherits from another class.</li>
-  <li></li>
 </ul>
 
 <h2>Use of Inheritance</h2>
@@ -191,4 +190,52 @@ It is used to call a method based on the type of the object on which it is invok
     }
     }
 
-  
+# Polymorphism
+Polymorphism is the ability of an object to take on many forms.
+Two type of Polymorphism are:
+
+# Overloading in Java
+<ul>
+  <li>It is used to achieve reusability.</li>
+  <li>The name of the method should be same.</li>
+  <li>The number of parameters should be different.</li>
+  <li>It is used to achieve polymorphism.</li>
+</ul>
+# Overriding in Java
+<ul>
+  <li>It is used to achieve reusability.</li>
+  <li>The name of the method should be same.</li>
+  <li>The number of parameters should be same.</li>
+  <li>It is used to achieve polymorphism.</li>
+  <li>It is used to achieve security.</li>
+</ul>
+
+    public class overloading_overriding {
+    public static void main(String[] args) {
+        G a = new G();
+        a.Method(); //! Overloading
+        a.Method(10); //! Overloading
+        F b = new F();
+        b.Method(); //! Overriding
+        b.Method(10); //! Overriding
+     }
+    }
+    class G{
+     void Method(){
+        System.out.println("Overloading");
+     }
+     void Method(int a){//! Overloading
+        System.out.println("Overloading");
+     }
+    }
+    class F extends G{
+     @Override
+     void Method(int a){//! Overriding
+        System.out.println("Overriding");
+     }
+     @Override
+     void Method(){ //! Overriding
+        System.out.println("Overriding");
+     }
+    }
+
