@@ -257,16 +257,23 @@ Two type of Polymorphism are:
   </tr>
   <tr>
     <td>protected</td>
+    <td>Y</td>
+    <td>Y</td>
+    <td>Y</td>
+    <td>N</td>
   </tr>
   <tr>
     <td>Default(No)</td>
+    <td>Y</td>
+    <td>Y</td>
+    <td>N</td>
+    <td>N</td>
   </tr>
   <tr>
     <td>private</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Y</td>
+    <td>N</td>
+    <td>N</td>
+    <td>N</td>
   </tr>
 </table>
