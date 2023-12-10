@@ -312,3 +312,6 @@ Two type of Polymorphism are:
   <li>It supports multiple inheritance.</li>
   <li>It is used to achieve data hiding.</li>
 </ul>
+
+# Most Most Important thing about Interface
+It allow <u>Multi inhertance</u>
