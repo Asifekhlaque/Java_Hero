@@ -37,7 +37,7 @@ Object Oriented Programming is a programming paradigm that provides a means of s
     } 
 # 4 main pillar of OOPS
 <ol>
-  <li>inheritance</li>
+  <li>Inheritance</li>
   <li>Polymorphism</li>
   <li>Encapsulation</li>
   <li>Abstraction</li>
