@@ -144,6 +144,7 @@ Inheritance is a mechanism in which one class acquires the properties of another
     }
 # Polymorphism
 Polymorphism is the ability of an object to take on many forms.
+<br>
 Two type of Polymorphism are:
 <ol>
   <li>Dynamic Polymorphism (Compile time Polymorphism)</li>
