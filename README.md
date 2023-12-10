@@ -142,7 +142,13 @@ Inheritance is a mechanism in which one class acquires the properties of another
         System.out.println(obj.a);
     }
     }
-
+# Polymorphism
+Polymorphism is the ability of an object to take on many forms.
+Two type of Polymorphism are:
+<ol>
+  <li>Dynamic Polymorphism (Compile time Polymorphism)</li>
+  <li>Static Polymorphism (Run time Polymorphism)</li>
+</ol>
 <h2>what is dynamic method dispatch?</h2>  
 Dynamic method dispatch is a feature of Java that allows you to call a method based on the type of the object on which it is invoked.
 <h2>why it is used?</h2>
@@ -190,9 +196,7 @@ It is used to call a method based on the type of the object on which it is invok
     }
     }
 
-# Polymorphism
-Polymorphism is the ability of an object to take on many forms.
-Two type of Polymorphism are:
+
 
 # Overloading in Java
 <ul>
@@ -294,6 +298,8 @@ Two type of Polymorphism are:
         System.out.println("I am protected");
      }
     }
+
+# What is abstract class?
 
 # What is Interface? 
 <ul>
