@@ -376,5 +376,10 @@ It provide security to your code.
       public void speedUp(int increment){
         System.out.println("Speeding up");
      }
+     public static void main(String[] args) {
+        MountainBike obj = new MountainBike();
+        obj.applyBrake(1);
+        obj.speedUp(2);
+     }
     }
 
