@@ -302,6 +302,13 @@ It is used to call a method based on the type of the object on which it is invok
     
 # Abstraction
 Abstraction is a process of hiding the implementation details and showing only the functionality to the user.
+<br>
+Abstraction having two comportant:
+<ol>
+  <li>Abstract class</li>
+  <li>Interface</li>
+</ol>
+
 # What is abstract class?
 <ul>
   <li>An abstract class is a class that contains one or more abstract methods.</li>
