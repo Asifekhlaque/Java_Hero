@@ -314,4 +314,6 @@ Two type of Polymorphism are:
 </ul>
 
 # Most Most Important thing about Interface
-It allow <u>Multi inhertance</u>
+It allow <b>Multi inhertance</b>. Means one class use multiple interface at the same time
+<br>
+Use Interface we use<b>implements</b> keyword.
