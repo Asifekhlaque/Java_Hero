@@ -365,4 +365,16 @@ It provide security to your code.
   <li>Use Interface we use <b>implements</b> keyword.</li>
 </ol>
 
+    interface Bicycle{
+     void applyBrake(int decrement);
+     void speedUp(int increment);
+    }
+    class MountainBike implements Bicycle{
+      public void applyBrake(int decrement){ //! Method Overriding
+        System.out.println("Applying Brake");
+      }
+      public void speedUp(int increment){
+        System.out.println("Speeding up");
+     }
+    }
 
