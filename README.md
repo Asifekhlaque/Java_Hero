@@ -35,6 +35,13 @@ Object Oriented Programming is a programming paradigm that provides a means of s
         obj.sum(10, 20);
      }
     } 
+# 4 main pillar of OOPS
+<ol>
+  <li>inheritance</li>
+  <li>Polymorphism</li>
+  <li>Encapsulation</li>
+  <li>Abstraction</li>
+</ol>
 <h1>What is constructor?</h1>
 <ul>
   <li>Constructor is a special type of method that is used to initialize objects.</li>
