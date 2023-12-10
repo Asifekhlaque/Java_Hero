@@ -301,7 +301,37 @@ It is used to call a method based on the type of the object on which it is invok
     }
 
 # What is abstract class?
+<ul>
+  <li>An abstract class is a class that contains one or more abstract methods.</li>
+  <li>An abstract method is a method that is declared without an implementation.</li>
+  <li>An abstract class cannot be instantiated.</li>
+  <li>An abstract class can have abstract methods and non-abstract methods.</li>
+</ul>
 
+# Use and Advantage abstract class?
+It provide security to your code.
+
+    abstract class Animal{ //todo abstract class
+     abstract void eat();
+     abstract void play();
+     void sleep(){
+      System.out.println("Animal is sleeping");
+     }
+    }
+    public class abstractMathod extends Animal{
+      void eat(){
+            System.out.println("Animal is eating");
+      }
+      void play(){
+            System.out.println("Animal is playing");
+      }
+      public static void main(String[] args) {
+            Animal obj = new abstractMathod();
+            obj.eat();
+            obj.sleep();
+            obj.play();
+      }
+    }
 # What is Interface? 
 <ul>
   <li>Interface is a blueprint of a class.</li>
