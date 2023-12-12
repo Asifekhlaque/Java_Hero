@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 <img src="https://github.com/Asifekhlaque/Java_Hero/assets/132199879/bb185c13-5a63-4a96-b787-78f6bbbb95be" style="width:50px">
 <img src="https://github.com/Asifekhlaque/Java_Hero/assets/132199879/b8e5d917-44f9-45fe-99b1-86de25c1c0a6" style="width:50px;"> 
-<img src="https://github.com/Asifekhlaque/Java_Hero/assets/132199879/0a0df93a-d4d8-4ea0-bb29-b851dd4cea4b" style="width:80px;">
+<img src="https://github.com/Asifekhlaque/Java_Hero/assets/132199879/0a0df93a-d4d8-4ea0-bb29-b851dd4cea4b" style="width:50px;">
 </div>
 <h1>Basic OOPs</h1>
 Its is concept of Object Oriented Programming in Java Language which is used to create classes and objects.
