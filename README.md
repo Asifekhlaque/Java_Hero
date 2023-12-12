@@ -8,7 +8,7 @@
 
 </div>
 <div style="display:flex">
-<b style="font-size:50px">Basic OOPs</b><img src="https://github.com/Asifekhlaque/Java_Hero/assets/132199879/0a0df93a-d4d8-4ea0-bb29-b851dd4cea4b" style="width:50px;">
+<b style="font-size:100px">Basic OOPs</b><img src="https://github.com/Asifekhlaque/Java_Hero/assets/132199879/0a0df93a-d4d8-4ea0-bb29-b851dd4cea4b" style="width:50px;">
 </div>
 Its is concept of Object Oriented Programming in Java Language which is used to create classes and objects.
 <h2>What is Object Oriented Programming in Java?</h2>
