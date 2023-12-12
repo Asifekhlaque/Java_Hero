@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 <img src="https://github.com/Asifekhlaque/Java_Hero/assets/132199879/bb185c13-5a63-4a96-b787-78f6bbbb95be" style="width:50px">
-<img src="https://github.com/Asifekhlaque/Java_Hero/assets/132199879/b8e5d917-44f9-45fe-99b1-86de25c1c0a6" style="width:50px;margin-top:20px"> 
+<img src="https://github.com/Asifekhlaque/Java_Hero/assets/132199879/b8e5d917-44f9-45fe-99b1-86de25c1c0a6" style="width:50px;"> 
 
 </div>
 <h1>Basic OOPs</h1>
