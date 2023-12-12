@@ -8,7 +8,7 @@
 <img src="https://github.com/Asifekhlaque/Java_Hero/assets/132199879/0a0df93a-d4d8-4ea0-bb29-b851dd4cea4b" style="width:50px;">
 </div>
 <h1>Basic OOPs</h1>
-Its is concept of Object Oriented Programming in Java Language which is used to create classes and objects.
+Its is concept of Object Oriented Programming in Java Language which is uses classes and objects to perform a real life tasks.
 <h2>What is Object Oriented Programming in Java?</h2>
 <u>
   <li>Object Oriented Programming is a programming paradigm that provides a means of structuring programs so that they are easier to understand, maintain, and debug.</li>
