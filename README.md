@@ -1,9 +1,7 @@
 # Java_Hero Mastering Object-Oriented Programming in Java
-<div style="display:flex>
+<div style="display:flex">
 <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
-
 <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white">
-
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 </div>
 <h1>Basic OOPs</h1>
