@@ -261,7 +261,7 @@ It is used to call a method based on the type of the object on which it is invok
     }
 # Access Modifier 
 
-<table style="width:100%;border:1px solid black;">
+<table style="width:100%;border:1px solid red;">
   <tr>
     <th>Modifier</th>
     <th>Class</th>
