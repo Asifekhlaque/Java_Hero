@@ -390,3 +390,29 @@ It provide security to your code.
      }
     }
 
+# What is Encapsulation?
+Encapsulation is used to achieve data hiding and achieve security.
+
+    public class encapsulation {
+    private int a;
+    private int b;
+    public int getA(){
+        return a;
+    }
+    public int getB(){
+        return b;
+    }
+    public void setA(int a){
+        this.a = a;
+    }
+    public void setB(int b){
+        this.b = b;
+    }
+    public static void main(String[] args) {
+        encapsulation obj = new encapsulation();
+        obj.setA(10);
+        obj.setB(20);
+        System.out.println(obj.getA());
+        System.out.println(obj.getB());
+      }
+    }
