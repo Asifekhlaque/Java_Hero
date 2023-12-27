@@ -427,3 +427,7 @@ Encapsulation is used to achieve data hiding and achieve security.
 
 ## Exception Handling
 Exception is an unwanted or unexpected event, which occurs during the execution of a program, i.e. at run time
+### Checked Exceptions
+Checked exceptions are called compile-time exceptions because these exceptions are checked at compile-time by the compiler.
+### Unchecked Exceptions
+The unchecked exceptions are just opposite to the checked exceptions.
