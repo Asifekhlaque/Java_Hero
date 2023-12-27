@@ -424,3 +424,6 @@ Encapsulation is used to achieve data hiding and achieve security.
         System.out.println(obj.getB());
       }
     }
+
+##Exception Handling
+Exception is an unwanted or unexpected event, which occurs during the execution of a program, i.e. at run time
