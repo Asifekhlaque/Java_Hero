@@ -31,7 +31,7 @@ C++,Java,Python,C#,JavaScript,PHP,Ruby,Swift,Kotlin,Go,Dart,Rust
 <h2>Conclusion</h2>
 Object Oriented Programming is a programming paradigm that provides a means of structuring programs so that they are easier to understand, maintain, and debug.
 <h3>Example<h3>
-     
+
      public class BasicOOPs {
        void sum(int a, int b){
         int sum = a + b;
@@ -43,6 +43,7 @@ Object Oriented Programming is a programming paradigm that provides a means of s
         obj.sum(10, 20);
      }
     } 
+
 # 4 main pillar of OOPS
 <ol>
   <li>Inheritance</li>
@@ -431,3 +432,34 @@ Exception is an unwanted or unexpected event, which occurs during the execution 
 Checked exceptions are called compile-time exceptions because these exceptions are checked at compile-time by the compiler.
 ### Unchecked Exceptions
 The unchecked exceptions are just opposite to the checked exceptions.
+
+## Array Deque
+- Array Deque is used to add or remove elements from both ends.
+- It is used to achieve efficient insertion and deletion
+```java
+import java.util.ArrayDeque;
+public class arradeq {
+    public static void main(String[] args) {
+                // Create an ArrayDeque
+                ArrayDeque<Integer> deque = new ArrayDeque<>();
+
+                // Add elements to the front of the deque
+                deque.addFirst(1);
+                deque.addFirst(2);
+                deque.addFirst(3);
+
+                // Add elements to the end of the deque
+                deque.addLast(4);
+                deque.addLast(5);
+                deque.addLast(6);
+
+                // Remove elements from the front of the deque
+                int firstElement = deque.removeFirst();
+                System.out.println("Removed first element: " + firstElement);
+
+                // Remove elements from the end of the deque
+                int lastElement = deque.removeLast();
+                System.out.println("Removed last element: " + lastElement);
+            }
+        }
+```
