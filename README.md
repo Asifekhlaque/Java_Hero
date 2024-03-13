@@ -44,7 +44,7 @@ Object Oriented Programming is a programming paradigm that provides a means of s
         obj.sum(10, 20);
      }
     } 
-    
+    ```
 # 4 main pillar of OOPS
 <ol>
   <li>Inheritance</li>
